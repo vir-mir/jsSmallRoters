@@ -15,7 +15,7 @@
 			        header: Header,
 			        left: Left,
 			        main: MainUserId, // центральный контролер для страницы юзер
-			        footer: 'Подвал'
+			        footer: Footer
 			      }),
 		  new Route('~^/user/$~', { // на странице пользователей не нужна левая колонка
 			        header: Header,
