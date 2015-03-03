@@ -1,5 +1,5 @@
 # jsSmallRoters
-Простой Router для web single page application
+Простой Router для **web single page application**
 
 Позволяет обрабатывать  URL и вызывать нужные контролеры в зовисемости от URL
 
