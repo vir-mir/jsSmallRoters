@@ -37,9 +37,9 @@
 		// Но здесь для примера обычные объекты
 		var header = new routers.getComponent('header');
 		var left = new routers.getComponent('left')(/* Если что-то нужно передать в конструктор, например зареган ли Юзер */);
-		var main = new routers.getComponent('header');
-		var right = new routers.getComponent('header'); // вернет null для всех страниц кроме /posts/post_url/
-		var footer = new routers.getComponent('header');
+		var main = new routers.getComponent('main');
+		var right = new routers.getComponent('right'); // вернет null для всех страниц кроме /posts/post_url/
+		var footer = new routers.getComponent('footer');
 		
 ```
 
