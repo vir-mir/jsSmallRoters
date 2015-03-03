@@ -1,3 +1,4 @@
+
 /**
  *
  * @param {String} regexp
@@ -155,3 +156,5 @@ Routers.prototype.getRote = function () {
  * @type {Array}
  */
 var RouteCollection = [];
+
+
